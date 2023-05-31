@@ -37,6 +37,8 @@ kw3135@gmail.com
 <p align="center">
 📝STUDY📝
 <br/>
+2023.04 ~ : 알고리즘 &emsp; <a href="https://wise-nigella-dd7.notion.site/3c7524b771594041b6fff7867e6aea14" target="_blank"><img src="https://img.shields.io/badge/ ~ing-FFFFFF?style=social&logo=Notion&logoColor=000000"/></a> 
+<br/>
 <a href="https://github.com/ImTaemin/JPA_Programming">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=JPA_Programming&show_owner=true"/>
 </a>

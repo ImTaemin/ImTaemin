@@ -20,25 +20,11 @@ kw3135@gmail.com
 <br/>
 
 <p align="center">
-🌞프로젝트🌞
-<br/>
-<a href="https://github.com/ImTaemin/MyShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=MyShop&show_owner=true"/>
-</a>
-<a href="https://github.com/ImTaemin/Stay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=Stay&show_owner=true"/>
-</a>
-<a href="https://github.com/ImTaemin/Semi_BookStore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=Semi_BookStore&show_owner=true"/>
-</a>
-</p>
-<br/>
-
-<p align="center">
 📝STUDY📝
 <br/>
-2023.04 ~ : 알고리즘 &emsp; <a href="https://wise-nigella-dd7.notion.site/3c7524b771594041b6fff7867e6aea14" target="_blank"><img src="https://img.shields.io/badge/ ~ing-FFFFFF?style=social&logo=Notion&logoColor=000000"/></a> 
+<a href="https://wise-nigella-dd7.notion.site/3c7524b771594041b6fff7867e6aea14" target="_blank"><img src="https://img.shields.io/badge/알고리즘-FFFFFF?style=social&logo=Notion&logoColor=000000"/></a> 
 <br/>
+
 <a href="https://github.com/ImTaemin/JPA_Programming">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=JPA_Programming&show_owner=true"/>
 </a>
@@ -53,6 +39,22 @@ kw3135@gmail.com
 </a>
 </p>
 <br>
+
+
+<p align="center">
+🌞프로젝트🌞
+<br/>
+<a href="https://github.com/ImTaemin/MyShop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=MyShop&show_owner=true"/>
+</a>
+<a href="https://github.com/ImTaemin/Stay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=Stay&show_owner=true"/>
+</a>
+<a href="https://github.com/ImTaemin/Semi_BookStore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=Semi_BookStore&show_owner=true"/>
+</a>
+</p>
+<br/>
 
 <!-- Stats -->
 <p align="center">

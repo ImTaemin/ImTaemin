@@ -44,6 +44,9 @@ kw3135@gmail.com
 <p align="center">
 🌞프로젝트🌞
 <br/>
+<a href="https://github.com/ImTaemin/boardserver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=boardserver&show_owner=true"/>
+</a>
 <a href="https://github.com/ImTaemin/MyShop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=MyShop&show_owner=true"/>
 </a>

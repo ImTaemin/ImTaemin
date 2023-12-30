@@ -1,7 +1,7 @@
-<!-- 헤더 -->
+<!-- 헤더 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=400&text=Welcome&desc=Taemin's%20Git%20Hub%20Profile&animation=fadeIn&descAlign=55" width="100%"/>
-</p>
+</p>-->
 
 <!-- 뱃지 -->
 <p align="center">

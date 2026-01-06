@@ -21,7 +21,6 @@ kw3135@gmail.com
 
 
 <a href="https://github.com/ImTaemin/JPA_Programming">
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=JPA_Programming)](https://github.com/ImTaemin/JPA_Programming)
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImTaemin&repo=JPA_Programming&show_owner=true"/>
 </a>
 <a href="https://github.com/ImTaemin/TheArtOfReact">
